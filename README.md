@@ -14,6 +14,7 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 - GIT (Opcional) : https://git-scm.com/
 - SmartGIT (Opcional) : https://www.syntevo.com/smartgit/
 - Editor de Texto: Notepad++ (https://notepad-plus-plus.org/)
+- Crear una cuenta en **github** (https://github.com/)
 
 # Crear directorio de trabajo
 
@@ -194,7 +195,7 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* Dar clic en el botón "Commit"
 	* En la ventana, colocar un mensaje de los cambios a guardar ("Ej. Adicion de la primera versión del ejercicio)
 	* Dar clic en el botón "Commit & Push".
-	
+	* Ver los cambios en el directorio del repositorio personal (https://github.com/epiragauta/ejercicio01)
 	
 		
 	
