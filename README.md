@@ -1,4 +1,4 @@
-Ejemplo con el API LEAFLET
+Ejercicio de un Mapa con el con el API de LEAFLET
 --
 
 Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https://www.openstreetmap.org).
