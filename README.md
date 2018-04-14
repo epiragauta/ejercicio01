@@ -189,5 +189,11 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 		* [pin24] (https://raw.githubusercontent.com/epiragauta/ejercicio01/develop/maps/images/pin24.png)
 		* [pin48] (https://raw.githubusercontent.com/epiragauta/ejercicio01/develop/maps/images/pin48.png)
 		
+	* Abrir a smartgit
+	* Seleccionar todos los archivos de la lista de archivos
+	* Dar clic en el botón "Commit"
+	* Colocar un mensaje de los cambios a guardar ("Ej. Adicion de la primera versión del ejercicio)
+	
+		
 	
 	
