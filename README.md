@@ -25,7 +25,8 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* En el mensaje "Should "ejercicio-01" be initialized as a new Git repository?", dar clic en el botón "Initialize".
 	* Crear un archivo llamado "index.html" en el directorio creado.
 	* Agregar el siguiente bloque de código:
-	`<!DOCTYPE html>
+	```
+	<!DOCTYPE html>
 		<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 		  <head profile="http://gmpg.org/xfn/11">
 			<title>Mapa de Ejemplo</title>
@@ -48,4 +49,5 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 			<script type='text/javascript' src='maps/markers.json'></script>
 			<script type='text/javascript' src='maps/leaf-demo.js'></script>
 		  </body>
-		</html>`
+		</html>
+		```
