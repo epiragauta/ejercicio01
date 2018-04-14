@@ -197,6 +197,7 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* Dar clic en el botón "Commit & Push".
 	* Ver los cambios en el directorio del repositorio personal (https://github.com/epiragauta/ejercicio01)
 	* Ejecutar el archivo index.html y abrirlo en un navegador (Google Chrome o Mozilla Firefox preferiblemente)
-		
+	* Resultado:
+		![Imagen ejercicio](https://raw.githubusercontent.com/epiragauta/ejercicio01/master/maps/images/test.jpg)	
 	
 	
