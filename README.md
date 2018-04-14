@@ -185,5 +185,9 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	
 	
 	* Crear el directorio "images" (Ej. C:\univalle\ejercicio01\maps\images)
+	* Descargar ls siguientes imágenes y copiarlas en el directorio "images"
+		* [pin24] (https://raw.githubusercontent.com/epiragauta/ejercicio01/develop/maps/images/pin24.png)
+		* [pin48] (https://raw.githubusercontent.com/epiragauta/ejercicio01/develop/maps/images/pin48.png)
+		
 	
 	
