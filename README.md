@@ -192,7 +192,9 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* Abrir a smartgit
 	* Seleccionar todos los archivos de la lista de archivos
 	* Dar clic en el botón "Commit"
-	* Colocar un mensaje de los cambios a guardar ("Ej. Adicion de la primera versión del ejercicio)
+	* En la ventana, colocar un mensaje de los cambios a guardar ("Ej. Adicion de la primera versión del ejercicio)
+	* Dar clic en el botón "Commit & Push".
+	
 	
 		
 	
