@@ -197,7 +197,10 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* Dar clic en el botón "Commit & Push" (Corrección: Dar clic en el botón "Commit").
 	* Ir al Menu Remote > Add..
 	* URL o Path = https://github.com/<USUARIO_CREADO>/ejercicio-01a (ej: https://github.com/epiragauta/ejercicio-01a)
-	* Clic en el botón Add
+	* Clic en el botón "Add"
+	* Clic en el botón "Push"
+	* Colocar Usuario y Clave de Github
+	* En la ventana y mensaje "Do you want to push branch master?" dar clic en el botón "Push".
 	* Ver los cambios en el directorio del repositorio personal (https://github.com/epiragauta/ejercicio01)
 	* Ejecutar el archivo index.html y abrirlo en un navegador (Google Chrome o Mozilla Firefox preferiblemente)
 	* Resultado:
