@@ -194,7 +194,10 @@ Creación de un Mapa con [Leaflet](http://leafletjs.com) y [OpenStreetMap](https
 	* Seleccionar todos los archivos de la lista de archivos
 	* Dar clic en el botón "Commit"
 	* En la ventana, colocar un mensaje de los cambios a guardar ("Ej. Adicion de la primera versión del ejercicio)
-	* Dar clic en el botón "Commit & Push".
+	* Dar clic en el botón "Commit & Push" (Corrección: Dar clic en el botón "Commit").
+	* Ir al Menu Remote > Add..
+	* URL o Path = https://github.com/<USUARIO_CREADO>/ejercicio-01a (ej: https://github.com/epiragauta/ejercicio-01a)
+	* Clic en el botón Add
 	* Ver los cambios en el directorio del repositorio personal (https://github.com/epiragauta/ejercicio01)
 	* Ejecutar el archivo index.html y abrirlo en un navegador (Google Chrome o Mozilla Firefox preferiblemente)
 	* Resultado:
